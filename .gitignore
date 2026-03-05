@@ -36,6 +36,5 @@ out/
 
 # Logs / data
 *.csv
-
 # macOS
 .DS_Store
